@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">latihan1</string>
+    <string name="provinsi">PROVINSI JAWA TENGAH</string>
+    <string name="kabupaten">KABUPATEN KLATEN</string>
+    <string name="nik">NIK : 34432292186093028</string>
+    <string name="nama">Nama : DITA LENI RAFIA</string>
+    <string name="ttl">Tempat/Tgl Lahir : KLATEN, 11-01-2000</string>
+    <string name="jenisKelamin">Jenis Kelamin : PEREMPUAN</string>
+    <string name="golDarah">Gol. Darah : B</string>
+    <string name="alamat">Alamat : NGLINGGI GG. MAWAR</string>
+    <string name="rtrw">RT/RW : 008/002</string>
+    <string name="desa">Kel/Desa : NGLINGGI</string>
+    <string name="kecamatan">Kecamatan : KLATEN PUSAT</string>
+    <string name="status">Status Perkawinan : BELUM KAWIN</string>
+    <string name="pekerjaan">Pekerjaan : PELAJAR/MAHASISWA</string>
+    <string name="kewarganegaraan">Kewarganegaraan : WNI</string>
+    <string name="berlaku">Berlaku Hingga : SEUMUR HIDUP</string>
+    <string name="agama">Agama : KRISTEN</string>
+    <string name="kabupaten2">KABUPATEN KLATEN</string>
+    <string name="tglTTD">15-09-2019</string>
+</resources>
